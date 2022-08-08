@@ -1,0 +1,151 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-size: 16px;
+    line-height: 1.40em;
+    color:#222;
+    background: #efefef;
+    font-family: sans-serif;
+}
+.as{
+    max-width: 80%;
+    height: auto;
+    border-radius: 3px;
+    text-align:center;
+    background-position: center center;
+}
+
+a{
+    text-decoration: none;
+    color:inherit;
+}
+
+.section{
+    clear: both;
+    padding: 0;
+    margin: 0;
+}
+.col{
+    display: block;
+    float: left;
+    margin: 1% 0 1.6%
+}
+.col:first-child{
+    margin-left: 0;
+
+}
+
+.span_3_of_3{
+    width:10px;
+}
+.span_2_of_3{
+    width: 60.1%;
+}
+.span_1_of_3{
+    width: 30.2%;
+
+}
+.span_2_of_3s{
+    width: 60.1%;
+    text-align: center;
+    
+
+}
+
+header{
+    max-width: 100%;
+    background: #0c94e8;
+    padding: 20px;
+}
+nav{
+    width: 100%;
+    margin-bottom:1em;
+    background: #0841a8;
+}
+.logo{
+    width: 80%;
+    display: block;
+    margin: auto;
+
+}
+ul{
+    padding: 0%;
+    margin: 0%;
+    overflow: hidden;
+    color: #fff;
+    font-weight: 300;
+    text-align: center;
+    transition:max-height 0.5s;
+}
+.nav-item{
+    display: inline-block;
+    padding: 20px;
+    font-size: 1.4em;
+}
+
+.nav-item:hover{
+    background: #0c94e8;
+    cursor: pointer;
+}
+.menu-bar{
+    width: 100%;
+    box-sizing: border-box;
+    background: #2d2d2d;
+    text-align: left;
+    padding: 15px 20px;
+    color: #fff;
+    font-size: 1.4em;
+    cursor: pointer;
+    display: none;
+}
+.hamburger-icon{
+    float:right;
+    clear: both;
+    margin-top: -5px;
+    font-size: 1.4em;
+}
+.Container{
+    max-width:1020px;
+    margin: 0 auto;
+    padding: 20px;
+
+}
+.blog-post{
+    background: white;
+    margin: 0 auto 2em auto ;
+    padding: 35px 30px;
+   
+}
+.side-post{
+    background:#fff;
+    margin: 0 auto 1.5em auto;
+    width: 15em;
+    padding: 20px;
+    
+
+}
+.blog-content{
+    font-size: 1em;
+    border-left: 5px solid #0c94e8; 
+    padding-left: 15px;
+}
+footer{
+    padding: 10px;
+    margin-top: 10px;
+    color:#fff;
+    background: #170249;
+    text-align: center;
+    position: relative;
+    clear: both;
+}
+
+
+
+
+
+
+
+
+
+
+
